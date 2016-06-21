@@ -1,5 +1,5 @@
 # What Is this?
-[Enova](http://www.enova.com) has decided to open source it's career ladders. You can find background on why we created new ladders [here](http://www.builtinchicago.org/node/126918) and why we open sourced them [here](https://www.enova.com/blog/open-sourcing-engineering-ladders/).
+[Enova](http://www.enova.com) has decided to open source its career ladders. You can find background on why we created new ladders [here](http://www.builtinchicago.org/node/126918) and why we open sourced them [here](https://www.enova.com/blog/open-sourcing-engineering-ladders/).
 
 # What's inside?
 There's 6 ladders contained:
