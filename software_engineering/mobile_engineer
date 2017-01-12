@@ -53,6 +53,16 @@
 ## SDLC / Process
 * Same as SE I
 
+## APIs
+* Understanding of common API best practices and what to ask for from a good API
+
+## Mobile UX
+* Can comfortabliy talk about Mobile UX on different devices
+* Can describe the difference between web users, mobile web users and native users
+
+## Mobile Security
+* Understands the main areas of Mobile Security
+
 ## Java/Swift
 * Same as SE I
 
@@ -82,7 +92,7 @@
 * Reviews requirements and provides high level estimates for new projects.
 
 ## APIs
-* Understanding of common API best practices and what to ask for from a good API
+* Proficiency with the design and use of APIs and considering the real world implications with networking, security and performance
 
 ## Mobile UX
 * Can comfortabliy talk about Mobile UX on different devices
@@ -110,6 +120,8 @@
 
 ## Tools / Frameworks
 * Leads the implementation and deployment of new development frameworks and tools within their team.
+* Work with multiple technology stacks to deliver the right Mobile experience for our customers’ needs, i.e. use the right tool for the right job, whether it be Native, React Native, PWA or even Flutter
+
 
 ## Code Writing
 * Leverages best practices and writes code that serves as an example for SE I/II developers.
@@ -119,7 +131,7 @@
 * Contributes to improving and evolving the Enova development process.
 
 ## APIs
-* Understanding of common API best practices and what to ask for from a good API
+* Proficiency with the design and use of APIs  and considering the real world implications with networking, security and performance
 
 ## Mobile UX
 * Can comfortabliy talk about Mobile UX on different devices
@@ -127,10 +139,12 @@
 
 ## Mobile Security
 * Understands the main areas of Mobile Security
+* Can secure the App and protect the customers data
 
 ## Java/Swift
 * Familiar with common, non-Java/Swift specific creational, structural and behavioral design patterns and idioms.
 * Migrates older Java/Swift code onto new versions.
+* Contribute robust features (complete with tests and documentation) and debug mobile applications, paying special attention to application responsiveness, battery usage, low data usage scenarios.
 
 # Lead Mobile Engineer
 ## Programming Language Knowledge
