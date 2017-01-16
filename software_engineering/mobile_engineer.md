@@ -90,6 +90,7 @@
 ## Tools / Frameworks
 * Analyzes possible new tools and frameworks. Recommends optimal implementation approach.
 * Proficient with common development frameworks and tools (for example  IDE, logging tools, unit testing, performance monitoring, source control and automated build tools) used within Enova.
+* Familiar with mobile dependency managers 
 
 ## Code Writing
 * Refactors existing code into maintainable and readable code.
@@ -114,6 +115,7 @@
 
 ## Java/Swift
 * Comfortable writing new Java/Swift code with no direction.
+* Familiar with multithread coding
 * Understands and refactors existing Java/Swift code with little direction.
 
 # Sr. Mobile Engineer II
