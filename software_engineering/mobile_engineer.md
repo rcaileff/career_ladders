@@ -108,6 +108,10 @@
 ## Mobile Security
 * Understands the main areas of Mobile Security
 
+## App Store
+* Familiar with relevant App store requirements and processes
+* Experience delivering at least one major iOS/Android application that is still available on the App/Play Store
+
 ## Java/Swift
 * Comfortable writing new Java/Swift code with no direction.
 * Understands and refactors existing Java/Swift code with little direction.
@@ -147,6 +151,10 @@
 ## Mobile Security
 * Understands the main areas of Mobile Security
 * Can secure the App and protect the customers data
+
+## App Store
+* Familiar with relevant App store requirements and processes
+* Experience delivering at least one major iOS/Android application that is still available on the App/Play Store
 
 ## Java/Swift
 * Familiar with common, non-Java/Swift specific creational, structural and behavioral design patterns and idioms.
@@ -192,6 +200,10 @@
 ## Mobile Security
 * Understands the main areas of Mobile Security and the main Vectors of attack
 * Can secure the App and protect the customers data
+
+## App Store
+* Familiar with relevant App store requirements and processes
+* Experience delivering at least one major iOS/Android application that is still available on the App/Play Store
 
 ## Java/Swift
 * Understands when to implement new Java/Swift features to replace older, custom code and plans implementation and rollout of new features.
