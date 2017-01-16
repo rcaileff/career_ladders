@@ -15,6 +15,7 @@
 
 ## Tools / Frameworks
 * Uses common development frameworks and tools (for example  IDE, logging tools, unit testing, performance monitoring, source control and automated build tools).
+* Is comfortable with Android SDK/Xcode
 
 ## Code Writing
 * Basic understanding of common coding best practices (for example code formatting, source control usage, code modularity).
@@ -23,6 +24,12 @@
 ## SDLC / Process
 * Understands Agile software development and how it fits within Enova’s process.
 * Comfortable working within Enova’s development process tools with little direction.
+
+## APIs
+* Understanding of common API best practices and what to ask for from a good API
+
+## Mobile UX
+* Can describe the difference between web users, mobile web users and native users
 
 ## Java or Swift
 * Writes new Java/Swift code with direction.
