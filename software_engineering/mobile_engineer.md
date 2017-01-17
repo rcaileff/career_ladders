@@ -106,8 +106,6 @@
 * Comfortable writing new Java/Swift code with no direction.
 * Understands and refactors existing Java/Swift code with little direction.
 
-* Familiar with Java/Swift internals. Comfortable explaining inner workings to SE / SR developers.
-
 # Sr. Mobile Engineer II
 ## Programming Language Knowledge
 * Proficient with more than one programming language
