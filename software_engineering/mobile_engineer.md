@@ -88,6 +88,7 @@
 * Works with Lead SE developers on integrating work into larger Enova testing tools and processes.
 
 ## Tools / Frameworks
+* Deep understanding of plaform/framework internals. Comfortable explaining inner workings to SE developers.
 * Analyzes possible new tools and frameworks. Recommends optimal implementation approach.
 * Proficient with common development frameworks and tools (for example  IDE, logging tools, unit testing, performance monitoring, source control and automated build tools) used within Enova.
 * Familiar with mobile dependency managers 
@@ -181,6 +182,8 @@
 * Actively participates in the implementation and deployment of new development frameworks and tools SE wide.
 * Familiarity with industry-wide best developments including different ways to build a Mobile App whether it be HTML5, Hybrid, or Native
 * Work with multiple technology stacks to deliver the right Mobile experience for our customers’ needs, i.e. use the right tool for the right job, whether it be Native, React Native, PWA or even Flutter
+* Expert level understanding of plaform/framework internals. Comfortable explaining inner workings to SE / SR developers.
+* Knowlegable about differences in how language behaves in plaform vs. other environments.
 
 ## Code Writing
 * Implements project level refactorings, removing problem areas and improving the quality of the overall code base.
