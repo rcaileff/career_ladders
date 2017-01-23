@@ -27,6 +27,7 @@
 
 ## APIs
 * Understanding of common API best practices and what to ask for from a good API
+* Understand differences between conventional data formats e.g. query string, form, JSON, XML, etc
 
 ## Mobile UX
 * Can describe the difference between web users, mobile web users and native users
@@ -61,17 +62,18 @@
 * Same as SE I
 
 ## APIs
-* Understanding of common API best practices and what to ask for from a good API
+* Same as SE I
 
 ## Mobile UX
-* Can comfortabliy talk about Mobile UX on different devices
-* Can describe the difference between web users, mobile web users and native users
+* Can comfortably talk about Mobile UX on different devices
+* Can identify common UI elements and suggest appropriate element for interaction
 
 ## Mobile Security
 * Understands the main areas of Mobile Security
 
 ## Java/Swift
-* Same as SE I
+* Migrate to new versions of Java/Swift
+* Understand how the object life cycle impacts on memory consumption
 
 # Sr. Mobile Engineer I
 ## Programming Language Knowledge
@@ -86,19 +88,21 @@
 ## Debugging / Testing
 * Helps SE I/II developers devise testing approaches for more complex testing scenarios.
 * Works with Lead SE developers on integrating work into larger Enova testing tools and processes.
+* Should be able to debug memory leaks
 
 ## Tools / Frameworks
-* Deep understanding of plaform/framework internals. Comfortable explaining inner workings to SE developers.
+* Deep understanding of platform/framework internals. Comfortable explaining inner workings to SE developers.
 * Analyzes possible new tools and frameworks. Recommends optimal implementation approach.
 * Proficient with common development frameworks and tools (for example  IDE, logging tools, unit testing, performance monitoring, source control and automated build tools) used within Enova.
 * Familiar with mobile dependency managers 
 
 ## Code Writing
 * Refactors existing code into maintainable and readable code.
-* Actively participates in code reviews.
+* Actively participates in code reviews and is able to coach others to improve their lanaguage skills
 
 ## SDLC / Process
 * Reviews requirements and provides high level estimates for new projects.
+* Familiar with release management within Enova
 
 ## APIs
 * Proficiency with the design and use of APIs and considering the real world implications with networking, security and performance
@@ -106,13 +110,14 @@
 ## Mobile UX
 * Can comfortabliy talk about Mobile UX on different devices
 * Can describe the difference between web users, mobile web users and native users
+* Creates custom UI elements where needed
 
 ## Mobile Security
 * Understands the main areas of Mobile Security
 
 ## App Store
 * Familiar with relevant App store requirements and processes
-* Experience delivering at least one major iOS/Android application that is still available on the App/Play Store
+* Experience delivering at least one major iOS/Android application
 
 ## Java/Swift
 * Comfortable writing new Java/Swift code with no direction.
@@ -193,14 +198,17 @@
 ## SDLC / Process
 * Leads SE/Sr. developers through the Enova development process.
 * Leads a Ranger squad working with a Core team to deliver projects within the Enova process.
+* Familiar with release management within Enova and works to evolve and improve it
+* Sharing knowledge/wisdom/experiences outside of the team e.g. blog, talk etc
 
 ## APIs
-* Proficiency with the design and use of APIs  and considering the real world implications with networking, security and performance
+* Expert with the design and use of APIs  and considering the real world implications with networking, security and performance
 
 ## Mobile UX
 * Can comfortabliy talk about Mobile UX on different devices
 * Can describe the difference between web users, mobile web users and native users
 * You will consider the implications of the product, its customers, their cultural differences and technological differences when making technology recommendations
+* Should be able to idetify platform features suitable to enhance the product
 
 ## Mobile Security
 * Understands the main areas of Mobile Security and the main Vectors of attack
