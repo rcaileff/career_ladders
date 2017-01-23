@@ -1,5 +1,5 @@
 # Software Engineer I
-## People Mangement
+## People Management
 * N/A
 
 ## Communication
@@ -15,7 +15,7 @@
 * Knows when to ask for help/escalate a problem
 * Clearly thinks through specific tasks and presents possible solutions with little direction.
 
-## Project Mangement
+## Project Management
 * Reviews and understands business requirements, design documents, and code changes associated with assigned tasks
 * Provides  accurate and timely estimates of task status
 * Accomplishes tasks assigned
@@ -36,7 +36,7 @@
 * N/A
 
 # Software Engineer II
-## People Mangement
+## People Management
 * N/A
 
 ## Communication
@@ -45,7 +45,7 @@
 ## Problem Solving / Decision Making
 * Clearly thinks through specific tasks and presents possible solutions with no direction.
 
-## Project Mangement
+## Project Management
 * Same as SE I
 
 ## Accountability / Dependability
@@ -60,7 +60,7 @@
 * Individual Managers arrange engineer exchanges. Submit to for approval.
 
 # Sr. Software Engineer I
-## People Mangement
+## People Management
 * N/A
 
 ## Communication
@@ -70,7 +70,7 @@
 ## Problem Solving / Decision Making
 * Independently thinks through a problem, articulates the 'problem space', defines solution options and recommends the approach
 
-## Project Mangement
+## Project Management
 * Peer review plans and documentation
 * Oversee implementation efforts in their area of responsibility
 * Develops and executes task plan with awareness of larger project plan, forecasts timeline on task completion, and may provide direction to other team members
@@ -89,7 +89,7 @@
 * N/A 
 
 # Sr. Software Engineer II
-## People Mangement
+## People Management
 * Can operate as a leader for a single project
 
 ## Communication
@@ -98,7 +98,7 @@
 ## Problem Solving / Decision Making
 * Champions recommended solution option, collecting support from peers.
 
-## Project Mangement
+## Project Management
 * Negotiates the scope of development to ensure time of completion
 
 ## Accountability / Dependability
@@ -113,7 +113,7 @@
 * Individual Managers arrange engineer exchanges. Submit to for approval.
 
 # Lead Software Engineer
-## People Mangement
+## People Management
 * Leads a Ranger squad or Mini-Squad (4 person team within a Core team. Think Squidbillies on UK).
 * Can coach and mentor team members, improving their abilities and improving their career
 
