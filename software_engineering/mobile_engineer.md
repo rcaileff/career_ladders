@@ -29,7 +29,7 @@
 * Understanding of common API best practices and what to ask for from a good API
 * Understand differences between conventional data formats e.g. query string, form, JSON, XML, etc
 
-## Mobile UX
+## Mobile UX/UI
 * Can describe the difference between web users, mobile web users and native users
 
 ## Java or Swift
@@ -64,7 +64,7 @@
 ## APIs
 * Same as SE I
 
-## Mobile UX
+## Mobile UX/UI
 * Can comfortably talk about Mobile UX on different devices
 * Can identify common UI elements and suggest appropriate element for interaction
 
@@ -107,7 +107,7 @@
 ## APIs
 * Proficiency with the design and use of APIs and considering the real world implications with networking, security and performance
 
-## Mobile UX
+## Mobile UX/UI
 * Can comfortabliy talk about Mobile UX on different devices
 * Can describe the difference between web users, mobile web users and native users
 * Creates custom UI elements where needed
@@ -141,7 +141,6 @@
 * Leads the implementation and deployment of new development frameworks and tools within their team.
 * Work with multiple technology stacks to deliver the right Mobile experience for our customers’ needs, i.e. use the right tool for the right job, whether it be Native, React Native, PWA or even Flutter
 
-
 ## Code Writing
 * Leverages best practices and writes code that serves as an example for SE I/II developers.
 * Advocates for establishing and following coding best practices team wide.
@@ -152,7 +151,7 @@
 ## APIs
 * Proficiency with the design and use of APIs  and considering the real world implications with networking, security and performance
 
-## Mobile UX
+## Mobile UX/UI
 * Can comfortabliy talk about Mobile UX on different devices
 * Can describe the difference between web users, mobile web users and native users
 
@@ -204,7 +203,7 @@
 ## APIs
 * Expert with the design and use of APIs  and considering the real world implications with networking, security and performance
 
-## Mobile UX
+## Mobile UX/UI
 * Can comfortabliy talk about Mobile UX on different devices
 * Can describe the difference between web users, mobile web users and native users
 * You will consider the implications of the product, its customers, their cultural differences and technological differences when making technology recommendations
