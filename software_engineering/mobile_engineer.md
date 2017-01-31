@@ -204,10 +204,10 @@
 * Expert with the design and use of APIs  and considering the real world implications with networking, security and performance
 
 ## Mobile UX/UI
-* Can comfortabliy talk about Mobile UX on different devices
+* You are comfortable talking about Mobile UX on different devices
 * Can describe the difference between web users, mobile web users and native users
 * You will consider the implications of the product, its customers, their cultural differences and technological differences when making technology recommendations
-* Should be able to idetify platform features suitable to enhance the product
+* Should be able to identify platform features suitable to enhance the product
 
 ## Mobile Security
 * Understands the main areas of Mobile Security and the main Vectors of attack
