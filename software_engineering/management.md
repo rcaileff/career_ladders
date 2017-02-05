@@ -13,6 +13,7 @@
 * Ensure adherence to Architecture guidelines and patterns and their implementation
 * Contribute toward to development or selection of architecture guidelines and patterns
 * Performs gap analyses periodically against current and future business needs and creates plan to address
+* Successful completion of Manager Bootcamp
 
 ## People Management
 * Able to take a group of individuals and form a cohesive unit to accomplish a goal
@@ -29,11 +30,11 @@
 
 # Manager II
 ## Position Summary
-* Leads multiple teams; may lead more than one functional area
+* Leads multiple teams; may lead more than one functional area or group
 
 ## Role Responsibilities
 * Leads and executes the vision and strategy of the their team(s)
-* Has the expertise to properly assess the size and complexity of new initiatives for their functional area
+* Has the expertise work with, and through, their team to properly assess the size and complexity of new initiatives for their functional area
 * Understands and possesses the technical skills to deliver the right solutions to the business
 * Contributes to and evangelizes architecture initiatives
 
@@ -48,7 +49,7 @@
 ## Communication
 * Communicates effectively with external groups
 * Demonstrates strong people skills / EQ, emotional control, social awareness, relationship management
-* Designs communication plans for changes and acts as an escalation point
+* Ensures timely and appropriate communication to stakeholders; leads through change; works to resolve escalated issues
 
 # Sr. Manager I
 ## Position Summary
