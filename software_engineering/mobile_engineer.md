@@ -30,12 +30,12 @@
 * Understand differences between conventional data formats e.g. query string, form, JSON, XML, etc
 
 ## Mobile UX/UI
-* Can describe the difference between web users, mobile web users and native users
+* Can understand and describe the differences between web users, mobile web users and native users, in terms of behaviour and expectations
 
 ## Java or Swift
-* Writes new Java/Swift code with direction.
+* Able to write new Java/Swift code with direction
 * Familiar with Java/Swift common creational, structural and behavioral design patterns and idioms.
-* Reads and comprehends existing Java/Swift code.
+* Reads and comprehends existing Java/Swift code at least intermediate level.
 
 # Mobile Engineer II
 ## Programming Language Knowledge
@@ -65,11 +65,11 @@
 * Same as SE I
 
 ## Mobile UX/UI
-* Can comfortably talk about Mobile UX on different devices
-* Can identify common UI elements and suggest appropriate element for interaction
+* Can comfortably describe the design challenges between different mobile devices e.g. screen size
+* Can identify common UI elements and suggest appropriate UI element for interaction
 
 ## Mobile Security
-* Understands the main areas of Mobile Security
+* Understands the main areas of Mobile Security as defined by [OWASP](https://www.owasp.org/index.php/OWASP_Mobile_Security_Project)
 
 ## Java/Swift
 * Migrate to new versions of Java/Swift
