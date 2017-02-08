@@ -66,13 +66,14 @@
 
 ## Mobile UX/UI
 * Can comfortably describe the design challenges between different mobile devices e.g. screen size
+* Can understand and describe the differences between web users, mobile web users and native users, in terms of behaviour and expectations
 * Can identify common UI elements and suggest appropriate UI element for interaction
 
 ## Mobile Security
 * Understands the main areas of Mobile Security as defined by [OWASP](https://www.owasp.org/index.php/OWASP_Mobile_Security_Project)
 
 ## Java/Swift
-* Migrate to new versions of Java/Swift
+* Are able to migrate to new versions of Java/Swift, whilst understand the differences between versions
 * Understand how the object life cycle impacts on memory consumption
 
 # Sr. Mobile Engineer I
@@ -108,15 +109,15 @@
 * Proficiency with the design and use of APIs and considering the real world implications with networking, security and performance
 
 ## Mobile UX/UI
-* Can comfortabliy talk about Mobile UX on different devices
-* Can describe the difference between web users, mobile web users and native users
+* Can comfortably describe the design challenges between different mobile devices e.g. screen size
+* Can understand and describe the differences between web users, mobile web users and native users, in terms of behaviour and expectations
 * Creates custom UI elements where needed
 
 ## Mobile Security
-* Understands the main areas of Mobile Security
+* Understands the main areas of Mobile Security as defined by [OWASP](https://www.owasp.org/index.php/OWASP_Mobile_Security_Project)
 
 ## App Store
-* Familiar with relevant App store requirements and processes
+* Familiar with have how the App store works in both requirements and processes
 * Experience delivering at least one major iOS/Android application
 
 ## Java/Swift
@@ -152,16 +153,18 @@
 * Proficiency with the design and use of APIs  and considering the real world implications with networking, security and performance
 
 ## Mobile UX/UI
-* Can comfortabliy talk about Mobile UX on different devices
-* Can describe the difference between web users, mobile web users and native users
+* Can comfortably describe the design challenges between different mobile devices e.g. screen size
+* Can understand and describe the differences between web users, mobile web users and native users, in terms of behaviour and expectations
+* Creates custom UI elements where needed
 
 ## Mobile Security
-* Understands the main areas of Mobile Security
-* Can secure the App and protect the customers data
+* Understands the main areas of Mobile Security as defined by [OWASP](https://www.owasp.org/index.php/OWASP_Mobile_Security_Project)
+* Able to secure the App and protect the customers data
 
 ## App Store
-* Familiar with relevant App store requirements and processes
-* Experience delivering at least one major iOS/Android application that is still available on the App/Play Store
+* Knows how the App store works in both requirements and processes
+* Experience delivering at least one major iOS/Android application
+* Can coach other engineers in the use of the App Store
 
 ## Java/Swift
 * Familiar with common, non-Java/Swift specific creational, structural and behavioral design patterns and idioms.
@@ -204,18 +207,21 @@
 * Expert with the design and use of APIs  and considering the real world implications with networking, security and performance
 
 ## Mobile UX/UI
-* You are comfortable talking about Mobile UX on different devices
-* Can describe the difference between web users, mobile web users and native users
-* You will consider the implications of the product, its customers, their cultural differences and technological differences when making technology recommendations
+* Can comfortably describe the design challenges between different mobile devices e.g. screen size
+* Can understand and describe the differences between web users, mobile web users and native users, in terms of behaviour and expectations
+* Creates custom UI elements where needed
+* Considers the implications of the product, its customers, their cultural differences and technological differences when making technology recommendations
 * Should be able to identify platform features suitable to enhance the product
 
 ## Mobile Security
-* Understands the main areas of Mobile Security and the main Vectors of attack
-* Can secure the App and protect the customers data
+* Understands the main areas of Mobile Security as defined by [OWASP](https://www.owasp.org/index.php/OWASP_Mobile_Security_Project)
+* Understands the main areas of Mobile Security, the main vectors of attack as well as emerging vectors of attack
+* Able to secure the App and protect the customers data
 
 ## App Store
-* Familiar with relevant App store requirements and processes
-* Experience delivering at least one major iOS/Android application that is still available on the App/Play Store
+* Knows how the App store works in both requirements and processes
+* Experience delivering at least one major iOS/Android application
+* Can coach other engineers in the use of the App Store
 
 ## Java/Swift
 * Understands when to implement new Java/Swift features to replace older, custom code and plans implementation and rollout of new features.
