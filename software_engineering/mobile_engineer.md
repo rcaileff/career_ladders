@@ -224,6 +224,6 @@
 * Can coach other engineers in the use of the App Store
 
 ## Java/Swift
-* Understands when to implement new Java/Swift features to replace older, custom code and plans implementation and rollout of new features.
-* Familiar with Java/Swift internals. Comfortable explaining inner workings to SE / SR developers.
+* Knows when to implement new Java/Swift features to replace older, custom code and plans implementation and rollout of new features.
+* Knows Java/Swift internals. Comfortable explaining inner workings to SE / SR developers.
 * Contribute robust features (complete with tests and documentation) and debug mobile applications, paying special attention to application responsiveness, battery usage, low data usage scenarios.
