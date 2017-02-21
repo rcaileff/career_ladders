@@ -105,15 +105,16 @@
 * The Director role in Technology leads a large group focused on multiple roles and functions drives the strategic vision for that group.
 
 ## Role Responsibilities
-* Leads initiatives in the department or across the firm
-* Accountable for team and department budgets
-* Leads the implementation of new concepts or new technologies across their department
-* Able to serve as an interim-Director or as an emissary for the department.
-* Highlights architecture needs and proposes initiatives to address
-* Evangelizes the "why" of architecture changes and patterns
-* Assesses departmental risks and acts to mitigate them
-* Understand Enova's core business, products and services and how technology impacts it
-* Provides suggestions on how to meet shared goals or how to improve the company
+* Defines the vision and strategy for the department
+* Owns the fiscal budget for the department
+* Works with peers in the organization and the executive team on Enova priorities
+* Looks outside of Enova for new and better technologies to support our strategy
+* Ensures the team has the resources, skills and experience for implementing architecture patterns and guidelines
+* Defines the messaging for evolutions -- technology, culture -- in our technology team
+* Understands Enova's business strategy and goals, and relevant other team's goals
+* Participates in strategic discussions with stakeholders and executive leadership
+* Understands Enova's compliance obligations and provides leadership in meeting them
+* Leads discussions on how to meet shared goals or how to improve the company
 
 ## People Management
 * Ability to influence or lead the direction of cross-department or company-wide initiatives
