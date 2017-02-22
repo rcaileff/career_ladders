@@ -130,7 +130,7 @@
 ## Project Management
 * Identifies areas of improvement in processes, procedures, and features SE wide
 * Breaks down large projects into iteration sized deliverables, milestones, and smaller tasks.
-* Identifies areas of risk and manages the risk
+* Identifies areas of risk and manages the risk e.g. performance, security, on time delivery, potential blockers
 
 ## Accountability / Dependability
 * Builds and coordinates the development of high quality deliverables.
