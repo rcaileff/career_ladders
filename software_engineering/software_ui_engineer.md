@@ -1,4 +1,4 @@
-# Software Engineer I
+# UI Software Engineer I
 ## Language Knowledge
 * Familiar with Javascript
 * Familiar with one Javascript, client-side, framework ( Ember, Angular, etc.. )
@@ -25,7 +25,7 @@
 * Comfortable with the process of implementing a given page layout into a functioning interactive design.
 * Familiar with designing and implementing responsive, mobile first web designs.
 
-# Software Engineer II
+# UI Software Engineer II
 ## Language Knowledge
 * Proficient with Javascript
 * Proficient with one Javascript, client-side, framework ( Ember, Angular, etc.. )
@@ -46,7 +46,7 @@
 ## UI / Design
 * Same as SE I
 
-# Sr. Software Engineer I
+# Sr. UI Software Engineer I
 ## Language Knowledge
 * Familiar with more than one  programming language and client-side Javascript framework
 
@@ -67,7 +67,7 @@
 * Rapidly prototypes ideas and concepts for proof of concepts ( working with UX and stakeholders )
 * Proficient with designing and implementing responsive, mobile first web designs.
 
-# Sr. Software Engineer II
+# Sr.UI Software Engineer II
 ## Language Knowledge
 * Proficient with more than one programming language and client-side Javascript framework
 
@@ -87,7 +87,7 @@
 ## UI / Design
 * Same as Sr. SE II
 
-# Lead Software Engineer I
+# Lead UI Software Engineer I
 ## Language Knowledge
 * Same as Sr. SE II
 
