@@ -1,3 +1,35 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Manager I](#manager-i)
+  - [Position Summary](#position-summary)
+  - [Role Responsibilities](#role-responsibilities)
+  - [People Management](#people-management)
+  - [Communication](#communication)
+- [Manager II](#manager-ii)
+  - [Position Summary](#position-summary-1)
+  - [Role Responsibilities](#role-responsibilities-1)
+  - [People Management](#people-management-1)
+  - [Communication](#communication-1)
+- [Sr. Manager I](#sr-manager-i)
+  - [Position Summary](#position-summary-2)
+  - [Role Responsibilities](#role-responsibilities-2)
+  - [People Management](#people-management-2)
+  - [Communication](#communication-2)
+- [Sr. Manager II](#sr-manager-ii)
+  - [Position Summary](#position-summary-3)
+  - [Role Responsibilities](#role-responsibilities-3)
+  - [People Management](#people-management-3)
+  - [Communication](#communication-3)
+- [Director](#director)
+  - [Position Summary](#position-summary-4)
+  - [Role Responsibilities](#role-responsibilities-4)
+  - [People Management](#people-management-4)
+  - [Communication](#communication-4)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Manager I
 ## Position Summary
 * The Manager role in Technology leads a single team focused on a strategic function in order to achieve goals.

@@ -1,3 +1,26 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Principal Engineer](#principal-engineer)
+  - [Communication](#communication)
+  - [Problem Solving / Decision Making](#problem-solving--decision-making)
+  - [Project Management](#project-management)
+  - [Accountability / Dependability](#accountability--dependability)
+  - [Subject Matter Expert](#subject-matter-expert)
+  - [Engineer Exchange](#engineer-exchange)
+  - [Thought Leadership](#thought-leadership)
+- [Sr. Principal Engineer](#sr-principal-engineer)
+  - [Communication](#communication-1)
+  - [Problem Solving / Decision Making](#problem-solving--decision-making-1)
+  - [Project Management](#project-management-1)
+  - [Accountability / Dependability](#accountability--dependability-1)
+  - [Subject Matter Expert](#subject-matter-expert-1)
+  - [Engineer Exchange](#engineer-exchange-1)
+  - [Thought Leadership](#thought-leadership-1)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Principal Engineer
 ## Communication 
 * Uses a reasoned and methodical approach to solve short term SE problems with an eye towards long term vision and goals for SE.

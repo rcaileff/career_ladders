@@ -1,3 +1,17 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [What Is this?](#what-is-this)
+- [What's inside?](#whats-inside)
+- [Structure](#structure)
+- [Definitions](#definitions)
+- [Why Ugly Markdown?](#why-ugly-markdown)
+- [Feedback](#feedback)
+- [Licensing](#licensing)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # What Is this?
 [Enova](http://www.enova.com) has decided to open source its career ladders. You can find background on why we created new ladders [here](http://www.builtinchicago.org/node/126918) and why we open sourced them [here](https://www.enova.com/blog/open-sourcing-engineering-ladders/).
 
