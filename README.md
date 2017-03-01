@@ -48,15 +48,15 @@ Markdown doesn't represent tables / matrices well. GFM only supports single line
 The TOCs in the readme files were generated using doctoc.
 
 To regenerate the TOCs, run
-'''
+```
 doctoc .
-'''
+```
 in the project directory. It recusively scans all .md files and adds TOC.
 
 To install doctoc, run
-'''
+```
 npm install -g doctoc
-'''
+```
 
 For more details, visit the doctoc git repo: https://github.com/thlorenz/doctoc.
 
