@@ -1,3 +1,18 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [What Is this?](#what-is-this)
+- [What's inside?](#whats-inside)
+- [Structure](#structure)
+- [Definitions](#definitions)
+- [Why Ugly Markdown?](#why-ugly-markdown)
+  - [Generating Table of Contents (TOC)](#generating-table-of-contents-toc)
+- [Feedback](#feedback)
+- [Licensing](#licensing)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # What Is this?
 [Enova](http://www.enova.com) has decided to open source its career ladders. You can find background on why we created new ladders [here](http://www.builtinchicago.org/node/126918) and why we open sourced them [here](https://www.enova.com/blog/open-sourcing-engineering-ladders/).
 
@@ -28,6 +43,22 @@ Within the ladders there's some Enova specific terminology:
 
 # Why Ugly Markdown?
 Markdown doesn't represent tables / matrices well. GFM only supports single line table cells, so they wouldn't work here. If you have some suggestions, please, open up an issue, or better yet, submit a PR.
+
+## Generating Table of Contents (TOC)
+The TOCs in the readme files were generated using doctoc.
+
+To regenerate the TOCs, run
+```
+doctoc .
+```
+in the project directory. It recusively scans all .md files and adds TOC.
+
+To install doctoc, run
+```
+npm install -g doctoc
+```
+
+For more details, visit the doctoc git repo: https://github.com/thlorenz/doctoc.
 
 # Feedback
 Feedback is welcome. Feel free to ping [Griffin Caprio](http://www.twitter.com/gcaprio) with questions or comments.
