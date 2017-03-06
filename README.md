@@ -17,7 +17,7 @@
 [Enova](http://www.enova.com) has decided to open source its career ladders. You can find background on why we created new ladders [here](http://www.builtinchicago.org/node/126918) and why we open sourced them [here](https://www.enova.com/blog/open-sourcing-engineering-ladders/).
 
 # What's inside?
-There's 6 ladders contained:
+There's 6 engineering ladders contained:
 * core_engineer - This is the basis of every team member, regardless of your specific focus.
 * software_engineer - Software Engineer Ladder
 * software_ui_engineer - Software UI Engineer Ladder
@@ -28,6 +28,9 @@ After you become a Lead Engineer, you can select to either go into the Individua
 
 * individual_contributor - Principal Engineer Ladder
 * mangement - Manager Ladder
+
+There's also a ladder dedicated to our Agile Project Management practice:
+* agile_project_manager - Agile Project Manager Ladder
 
 # Structure
 Each position is meant to build on the position before it. So a Sr. Software Engineer II is expected to fulfill everything found in the Software Engineer I, II and Sr. Software Engineer I descriptions.
