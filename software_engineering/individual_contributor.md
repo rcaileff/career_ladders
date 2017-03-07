@@ -35,7 +35,7 @@
 
 ## Project Management    
 * Contributes process improvements, procedure improvements, and support governance processes across SE.
-* Collaborates alongside Core teams to identify achievable milestones within current product goals which can be executed and aligned with larger SE goals.
+* Collaborates alongside Dedicated teams to identify achievable milestones within current product goals which can be executed and aligned with larger SE goals.
 * Promotes collaboration across Tech groups
 
 ## Accountability / Dependability
