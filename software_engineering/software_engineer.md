@@ -188,7 +188,7 @@
 
 ## SDLC / Process
 * Leads SE/Sr. developers through the Enova development process.
-* Leads a Ranger squad working with a Core team to deliver projects within the Enova process.
+* Leads a Ranger squad working with a Dedicated team to deliver projects within the Enova process.
 
 ## Ruby / Rails
 * Understands when to implement new Rails/Ruby features to replace older, custom code and plans implementation and rollout of new features.
