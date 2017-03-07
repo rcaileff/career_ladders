@@ -147,7 +147,7 @@
 
 ## SDLC / Process
 * Leads SE I/II/III developers through the Enova development process
-* Leads a Ranger squad working with a Core team to deliver projects within the Enova process.
+* Leads a Ranger squad working with a Dedicated team to deliver projects within the Enova process.
 
 ## UI / Design
 * Able to use web browsing data and analysis to inform design decisions
