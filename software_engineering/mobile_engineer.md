@@ -268,7 +268,10 @@
 
 ## SDLC / Process
 * Leads SE/Sr. developers through the Enova development process.
-* Leads a Ranger squad working with a Core team to deliver projects within the Enova process.
+* Leads a Ranger squad working with a Dedicated
+
+
+team to deliver projects within the Enova process.
 * Familiar with release management within Enova and works to evolve and improve it
 * Sharing knowledge/wisdom/experiences outside of the team e.g. blog, talk etc
 
