@@ -103,7 +103,7 @@
 * Understand the organization’s products and services, and basic business processes.
 
 ## Engineer Exchange
-* Participation in 1 engineer exchange for at least 6 weeks with another Core or Ranger team*
+* Participation in 1 engineer exchange for at least 6 weeks with another Dedicated or Ranger team*
 * Individual Managers arrange engineer exchanges. Submit to for approval.
 
 # Sr. Software Engineer I
@@ -156,12 +156,12 @@
 * Leads & recommends direction for project/product.
 
 ## Engineer Exchange
-* Participation in 1 engineer exchange for at least 6 weeks with another Core or Ranger team*
+* Participation in 1 engineer exchange for at least 6 weeks with another Dedicated or Ranger team*
 * Individual Managers arrange engineer exchanges. Submit to for approval.
 
 # Lead Software Engineer
 ## People Management
-* Leads a Ranger squad or Mini-Squad (4 person team within a Core team. Think Squidbillies on UK).
+* Leads a Ranger squad or Mini-Squad (4 person team within a Dedicated team. Think Squidbillies on UK).
 
 ## Communication
 * Interacting with PM & stakeholders, understanding business problems and requirements and articulating solutions.
