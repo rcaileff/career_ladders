@@ -8,35 +8,30 @@
   - [Automation](#automation)
   - [Code Writing](#code-writing)
   - [SDLC/Process](#sdlcprocess)
-  - [Ruby / Rails Testing](#ruby--rails-testing)
 - [Software Engineer II](#software-engineer-ii)
   - [Test Process Steps & Management](#test-process-steps--management-1)
   - [Tools](#tools-1)
   - [Automation](#automation-1)
   - [Code Writing](#code-writing-1)
   - [SDLC/Process](#sdlcprocess-1)
-  - [Ruby / Rails Testing](#ruby--rails-testing-1)
 - [Sr. Software Engineer I](#sr-software-engineer-i)
   - [Test Process Steps & Management](#test-process-steps--management-2)
   - [Tools](#tools-2)
   - [Automation](#automation-2)
   - [Code Writing](#code-writing-2)
   - [SDLC/Process](#sdlcprocess-2)
-  - [Ruby / Rails Testing](#ruby--rails-testing-2)
 - [Sr. Software Engineer II](#sr-software-engineer-ii)
   - [Test Process Steps & Management](#test-process-steps--management-3)
   - [Tools](#tools-3)
   - [Automation](#automation-3)
   - [Code Writing](#code-writing-3)
   - [SDLC/Process](#sdlcprocess-3)
-  - [Ruby / Rails Testing](#ruby--rails-testing-3)
 - [Lead Software Engineer](#lead-software-engineer)
   - [Test Process Steps & Management](#test-process-steps--management-4)
   - [Tools](#tools-4)
   - [Automation](#automation-4)
   - [Code Writing](#code-writing-4)
   - [SDLC/Process](#sdlcprocess-4)
-  - [Ruby / Rails Testing](#ruby--rails-testing-4)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -52,6 +47,7 @@
 
 ## Automation
 * Identifies opportunities for automation during test process
+* Works proactively with software engineers to recommend changes to underlying code that would ease and improve testing automation.
 
 ## Code Writing
 * Basic understanding of common coding best practices (for example code formatting, source control usage, code modularity).
@@ -60,10 +56,6 @@
 ## SDLC/Process
 * Understands Agile software development and how it fits within Enova’s process.
 * Comfortable working within Enova’s development process tools with little direction.
-
-## Ruby / Rails Testing
-* Understands common Ruby based test tools
-* Writes new tests using accepted tools ( RSpec, Cucumber, etc.. ) with some direction
 
 # Software Engineer II
 ## Test Process Steps & Management
@@ -75,6 +67,7 @@
 * Same as SE I
 
 ## Automation
+* Owns and maintains project-specific test infrastructure and test suite.
 * Recommends and implements new test techniques and processes for use on specific project.
 
 ## Code Writing
@@ -82,9 +75,6 @@
 
 ## SDLC/Process
 * Same as SE I
-
-## Ruby / Rails Testing
-* Writes new tests using accepted tools ( RSpec, Cucumber, etc.. ) with no direction
 
 # Sr. Software Engineer I
 ## Test Process Steps & Management
@@ -94,7 +84,7 @@
 * Selects, setup and recommends tools and processes for usage on a project or Core.
 
 ## Automation
-* Performs proof of concept projects with new tools or technologies to evolve deployment and development environments.
+* Analyzes and recommends new tools and technologies.
 
 ## Code Writing
 * Refactors existing code into maintainable and readable code.
@@ -102,11 +92,7 @@
 
 ## SDLC/Process
 * Reviews requirements and provides estimates for new projects.
-
-## Ruby / Rails Testing
-* Proficient with accepted Ruby testing tools.
-* Recommends and implements new versions of accepted Ruby testing tools.
-* Understands and refactors existing Ruby/Rails test code with little direction
+* Serves as product GateKeeper for testing.  Test and/or assist other devs in testing.
 
 # Sr. Software Engineer II
 ## Test Process Steps & Management
@@ -116,7 +102,7 @@
 * Research, recommend and implement new test tools, for implementation team wide.
 
 ## Automation
-* Analyzes and recommends new tools and technologies.
+* Performs proof of concept projects with new tools or technologies to evolve deployment and development environments.
 
 ## Code Writing
 * Leverages best practices and writes code that serves as an example for SE I/II developers.
@@ -125,22 +111,17 @@
 ## SDLC/Process
 * Contributes to improving and evolving the Enova process.
 
-## Ruby / Rails Testing
-* Migrates older Ruby/Rails testing code onto new versions.
-
 # Lead Software Engineer
 ## Test Process Steps & Management
 * Manages and oversees the creation and execution of an entire product testing strategy.
 * Works with Test I/II/Sr. engineers to deliver tested projects
 * Works with SE Manager to define testing strategy across a Core.
-* Research, recommend and implement new, techniques and processes for implementation SE wide. 
 
 ## Tools
-* Selects, setup and recommends tools and process for usage SE wide.
+* Selects, setup and recommends tools and process for cross-team usage.
 
 ## Automation
-* Recommend and implement new automation techniques and processes for use SE wide.
-* Works proactively with software engineers to recommend changes to underlying code that would ease and improve testing automation.
+* Same as Sr. SE II
 
 ## Code Writing
 * Implements project level refactorings, removing problem areas and improving the quality of the overall code base
@@ -150,7 +131,3 @@
 ## SDLC/Process
 * Leads SE/Sr. developers through the Enova development process.
 * Leads a Ranger squad working with a Dedicated team to deliver projects within the Enova process.
-
-## Ruby / Rails Testing
-* Understands when to implement new Rails/Ruby testing tool features to replace older, custom code and plans implementation and rollout of new features.
-* Familiar with common, non-Ruby specific testing tools and idioms.
