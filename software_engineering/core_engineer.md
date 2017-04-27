@@ -76,7 +76,7 @@
 
 ## Project Management
 * Reviews and understands business requirements, design documents, and code changes associated with assigned tasks
-* Provides  accurate and timely estimates of task status
+* Provides  accurate and timely estimates of his/her task status, including accounting for tests.
 * Accomplishes tasks assigned
 * Works closely with stakeholders responsible for validating assigned tasks.
 * Provides visibility into progress on all their work with little direction
