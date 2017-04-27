@@ -8,8 +8,6 @@
   - [Server / Machine Administration](#server--machine-administration)
   - [Debugging / Testing](#debugging--testing)
   - [Tools / Frameworks](#tools--frameworks)
-  - [Code Writing](#code-writing)
-  - [SDLC / Process](#sdlc--process)
   - [Ruby / Rails](#ruby--rails)
 - [Software Engineer II](#software-engineer-ii)
   - [Programming Language Knowledge](#programming-language-knowledge-1)
@@ -17,8 +15,6 @@
   - [Server / Machine Administration](#server--machine-administration-1)
   - [Debugging / Testing](#debugging--testing-1)
   - [Tools / Frameworks](#tools--frameworks-1)
-  - [Code Writing](#code-writing-1)
-  - [SDLC / Process](#sdlc--process-1)
   - [Ruby / Rails](#ruby--rails-1)
 - [Sr. Software Engineer I](#sr-software-engineer-i)
   - [Programming Language Knowledge](#programming-language-knowledge-2)
@@ -26,8 +22,6 @@
   - [Server / Machine Administration](#server--machine-administration-2)
   - [Debugging / Testing](#debugging--testing-2)
   - [Tools / Frameworks](#tools--frameworks-2)
-  - [Code Writing](#code-writing-2)
-  - [SDLC / Process](#sdlc--process-2)
   - [Ruby / Rails](#ruby--rails-2)
 - [Sr. Software Engineer II](#sr-software-engineer-ii)
   - [Programming Language Knowledge](#programming-language-knowledge-3)
@@ -35,8 +29,6 @@
   - [Server / Machine Administration](#server--machine-administration-3)
   - [Debugging / Testing](#debugging--testing-3)
   - [Tools / Frameworks](#tools--frameworks-3)
-  - [Code Writing](#code-writing-3)
-  - [SDLC / Process](#sdlc--process-3)
   - [Ruby / Rails](#ruby--rails-3)
 - [Lead Software Engineer](#lead-software-engineer)
   - [Programming Language Knowledge](#programming-language-knowledge-4)
@@ -44,8 +36,6 @@
   - [Server / Machine Administration](#server--machine-administration-4)
   - [Debugging / Testing](#debugging--testing-4)
   - [Tools / Frameworks](#tools--frameworks-4)
-  - [Code Writing](#code-writing-4)
-  - [SDLC / Process](#sdlc--process-4)
   - [Ruby / Rails](#ruby--rails-4)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -67,14 +57,6 @@
 
 ## Tools / Frameworks
 * Uses common development frameworks and tools (for example  IDE, logging tools, unit testing, performance monitoring, source control and automated build tools).
-
-## Code Writing
-* Basic understanding of common coding best practices (for example code formatting, source control usage, code modularity).
-* Writes maintainable, readable and intention revealing code.
-
-## SDLC / Process
-* Understands Agile software development and how it fits within Enova’s process.
-* Comfortable working within Enova’s development process tools with little direction.
 
 ## Ruby / Rails
 * Writes new Ruby/Rails code with direction.
@@ -99,12 +81,6 @@
 ## Tools / Frameworks
 * Same as SE I
 
-## Code Writing
-* Same as SE I
-
-## SDLC / Process
-* Same as SE I
-
 ## Ruby / Rails
 * Same as SE I
 
@@ -126,13 +102,6 @@
 * Analyzes possible new tools and frameworks. Recommends optimal implementation approach.
 * Proficient with common development frameworks and tools (for example  IDE, logging tools, unit testing, performance monitoring, source control and automated build tools) used within Enova.
 
-## Code Writing
-* Refactors existing code into maintainable and readable code.
-* Actively participates in code reviews.
-
-## SDLC / Process
-* Reviews requirements and provides high level estimates for new projects.
-
 ## Ruby / Rails
 * Comfortable writing new Ruby/Rails code with no direction.
 * Understands and refactors existing Ruby/Rails code with little direction.
@@ -152,13 +121,6 @@
 
 ## Tools / Frameworks
 * Leads the implementation and deployment of new development frameworks and tools within their team.
-
-## Code Writing
-* Leverages best practices and writes code that serves as an example for SE I/II developers.
-* Advocates for establishing and following coding best practices team wide.
-
-## SDLC / Process
-* Contributes to improving and evolving the Enova development process.
 
 ## Ruby / Rails
 * Familiar with common, non-Ruby specific creational, structural and behavioral design patterns and idioms.
@@ -180,15 +142,6 @@
 
 ## Tools / Frameworks
 * Actively participates in the implementation and deployment of new development frameworks and tools SE wide.
-
-## Code Writing
-* Implements project level refactorings, removing problem areas and improving the quality of the overall code base.
-* Fosters code reuse, maintainability, and consistency across multiple team members and/or projects.
-* Advocates for establishing and following coding best practices SE wide.
-
-## SDLC / Process
-* Leads SE/Sr. developers through the Enova development process.
-* Leads a Ranger squad working with a Dedicated team to deliver projects within the Enova process.
 
 ## Ruby / Rails
 * Understands when to implement new Rails/Ruby features to replace older, custom code and plans implementation and rollout of new features.

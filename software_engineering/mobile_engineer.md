@@ -8,8 +8,6 @@
   - [Server / Machine Administration](#server--machine-administration)
   - [Debugging / Testing](#debugging--testing)
   - [Tools / Frameworks](#tools--frameworks)
-  - [Code Writing](#code-writing)
-  - [SDLC / Process](#sdlc--process)
   - [APIs](#apis)
   - [Mobile UX/UI](#mobile-uxui)
   - [Java or Swift](#java-or-swift)
@@ -19,8 +17,6 @@
   - [Server / Machine Administration](#server--machine-administration-1)
   - [Debugging / Testing](#debugging--testing-1)
   - [Tools / Frameworks](#tools--frameworks-1)
-  - [Code Writing](#code-writing-1)
-  - [SDLC / Process](#sdlc--process-1)
   - [APIs](#apis-1)
   - [Mobile UX/UI](#mobile-uxui-1)
   - [Mobile Security](#mobile-security)
@@ -31,8 +27,6 @@
   - [Server / Machine Administration](#server--machine-administration-2)
   - [Debugging / Testing](#debugging--testing-2)
   - [Tools / Frameworks](#tools--frameworks-2)
-  - [Code Writing](#code-writing-2)
-  - [SDLC / Process](#sdlc--process-2)
   - [APIs](#apis-2)
   - [Mobile UX/UI](#mobile-uxui-2)
   - [Mobile Security](#mobile-security-1)
@@ -44,8 +38,6 @@
   - [Server / Machine Administration](#server--machine-administration-3)
   - [Debugging / Testing](#debugging--testing-3)
   - [Tools / Frameworks](#tools--frameworks-3)
-  - [Code Writing](#code-writing-3)
-  - [SDLC / Process](#sdlc--process-3)
   - [APIs](#apis-3)
   - [Mobile UX/UI](#mobile-uxui-3)
   - [Mobile Security](#mobile-security-2)
@@ -57,8 +49,6 @@
   - [Server / Machine Administration](#server--machine-administration-4)
   - [Debugging / Testing](#debugging--testing-4)
   - [Tools / Frameworks](#tools--frameworks-4)
-  - [Code Writing](#code-writing-4)
-  - [SDLC / Process](#sdlc--process-4)
   - [APIs](#apis-4)
   - [Mobile UX/UI](#mobile-uxui-4)
   - [Mobile Security](#mobile-security-3)
@@ -85,14 +75,6 @@
 ## Tools / Frameworks
 * Uses common development frameworks and tools (for example  IDE, logging tools, unit testing, performance monitoring, source control and automated build tools).
 * Is comfortable with Android SDK/Xcode
-
-## Code Writing
-* Basic understanding of common coding best practices (for example code formatting, source control usage, code modularity).
-* Writes maintainable, readable and intention revealing code.
-
-## SDLC / Process
-* Understands Agile software development and how it fits within Enova’s process.
-* Comfortable working within Enova’s development process tools with little direction.
 
 ## APIs
 * Understanding of common API best practices and what to ask for from a good API
@@ -122,12 +104,6 @@
 * Writes Unit Tests for existing untested code.
 
 ## Tools / Frameworks
-* Same as SE I
-
-## Code Writing
-* Same as SE I
-
-## SDLC / Process
 * Same as SE I
 
 ## APIs
@@ -166,14 +142,6 @@
 * Proficient with common development frameworks and tools (for example  IDE, logging tools, unit testing, performance monitoring, source control and automated build tools) used within Enova.
 * Familiar with mobile dependency managers 
 
-## Code Writing
-* Refactors existing code into maintainable and readable code.
-* Actively participates in code reviews and is able to coach others to improve their lanaguage skills
-
-## SDLC / Process
-* Reviews requirements and provides high level estimates for new projects.
-* Familiar with release management within Enova
-
 ## APIs
 * Proficiency with the design and use of APIs and considering the real world implications with networking, security and performance
 
@@ -210,13 +178,6 @@
 ## Tools / Frameworks
 * Leads the implementation and deployment of new development frameworks and tools within their team.
 * Work with multiple technology stacks to deliver the right Mobile experience for our customers’ needs, i.e. use the right tool for the right job, whether it be Native, React Native, PWA or even Flutter
-
-## Code Writing
-* Leverages best practices and writes code that serves as an example for SE I/II developers.
-* Advocates for establishing and following coding best practices team wide.
-
-## SDLC / Process
-* Contributes to improving and evolving the Enova development process.
 
 ## APIs
 * Proficiency with the design and use of APIs  and considering the real world implications with networking, security and performance
@@ -260,17 +221,6 @@
 * Work with multiple technology stacks to deliver the right Mobile experience for our customers’ needs, i.e. use the right tool for the right job, whether it be Native, React Native, PWA or even Flutter
 * Expert level understanding of plaform/framework internals. Comfortable explaining inner workings to SE / SR developers.
 * Knowlegable about differences in how language behaves in plaform vs. other environments.
-
-## Code Writing
-* Implements project level refactorings, removing problem areas and improving the quality of the overall code base.
-* Fosters code reuse, maintainability, and consistency across multiple team members and/or projects.
-* Advocates for establishing and following coding best practices SE wide.
-
-## SDLC / Process
-* Leads SE/Sr. developers through the Enova development process.
-* Leads a Ranger squad working with a Dedicated team to deliver projects within the Enova process.
-* Familiar with release management within Enova and works to evolve and improve it
-* Sharing knowledge/wisdom/experiences outside of the team e.g. blog, talk etc
 
 ## APIs
 * Expert with the design and use of APIs  and considering the real world implications with networking, security and performance

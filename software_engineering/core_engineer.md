@@ -9,6 +9,8 @@
   - [Project Management](#project-management)
   - [Accountability / Dependability](#accountability--dependability)
   - [Subject Matter Expert](#subject-matter-expert)
+  - [Code Writing](#code-writing)
+  - [SDLC/Process](#sdlcprocess)
   - [Engineer Exchange](#engineer-exchange)
 - [Software Engineer II](#software-engineer-ii)
   - [People Management](#people-management-1)
@@ -17,6 +19,8 @@
   - [Project Management](#project-management-1)
   - [Accountability / Dependability](#accountability--dependability-1)
   - [Subject Matter Expert](#subject-matter-expert-1)
+  - [Code Writing](#code-writing-1)
+  - [SDLC/Process](#sdlcprocess-1)
   - [Engineer Exchange](#engineer-exchange-1)
 - [Sr. Software Engineer I](#sr-software-engineer-i)
   - [People Management](#people-management-2)
@@ -25,6 +29,10 @@
   - [Project Management](#project-management-2)
   - [Accountability / Dependability](#accountability--dependability-2)
   - [Subject Matter Expert](#subject-matter-expert-2)
+  - [Code Writing](#code-writing-2)
+  - [SDLC/Process](#sdlcprocess-2)
+  - [Code Writing](#code-writing-3)
+  - [SDLC/Process](#sdlcprocess-3)
   - [Engineer Exchange](#engineer-exchange-2)
 - [Sr. Software Engineer II](#sr-software-engineer-ii)
   - [People Management](#people-management-3)
@@ -33,6 +41,8 @@
   - [Project Management](#project-management-3)
   - [Accountability / Dependability](#accountability--dependability-3)
   - [Subject Matter Expert](#subject-matter-expert-3)
+  - [Code Writing](#code-writing-4)
+  - [SDLC / Process](#sdlc--process)
   - [Engineer Exchange](#engineer-exchange-3)
 - [Lead Software Engineer](#lead-software-engineer)
   - [People Management](#people-management-4)
@@ -41,6 +51,8 @@
   - [Project Management](#project-management-4)
   - [Accountability / Dependability](#accountability--dependability-4)
   - [Subject Matter Expert](#subject-matter-expert-4)
+  - [Code Writing](#code-writing-5)
+  - [SDLC/Process](#sdlcprocess-4)
   - [Engineer Exchange](#engineer-exchange-4)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -79,6 +91,14 @@
 * Able to understand existing code base.
 * Understands how the organization is structured and how the current technology supports and affects the business.
 
+## Code Writing
+* Basic understanding of common coding best practices (for example code formatting, source control usage, code modularity).
+* Writes maintainable, readable and intention revealing code.
+
+## SDLC/Process
+* Understands Agile software development and how it fits within Enova’s process.
+* Comfortable working within Enova’s development process tools with little direction.
+
 ## Engineer Exchange
 * N/A
 
@@ -101,6 +121,12 @@
 ## Subject Matter Expert
 * Makes recommendations around possible improvements to the code base.
 * Understand the organization’s products and services, and basic business processes.
+
+## Code Writing
+* Same as SE I
+
+## SDLC/Process
+* Same as SE I
 
 ## Engineer Exchange
 * Participation in 1 engineer exchange for at least 6 weeks with another Dedicated or Ranger team*
@@ -132,6 +158,20 @@
 * Understands and recommends future changes at a product level.
 * Articulates how their work fits into the Enova platform as a whole.
 
+## Code Writing
+* Refactors existing code into maintainable and readable code.
+* Actively participates in code reviews.
+
+## SDLC/Process
+* Reviews requirements and provides estimates for new projects.
+
+## Code Writing
+* Leverages best practices and writes code that serves as an example for SE I/II developers.
+* Advocates for establishing and following coding best practices team wide.
+
+## SDLC/Process
+* Contributes to improving and evolving the Enova process.
+
 ## Engineer Exchange 
 * N/A 
 
@@ -154,6 +194,13 @@
 
 ## Subject Matter Expert
 * Same as Sr. SE I
+
+## Code Writing
+* Leverages best practices and writes code that serves as an example for SE I/II developers.
+* Advocates for establishing and following coding best practices team wide.
+
+## SDLC / Process
+* Contributes to improving and evolving the Enova development process.
 
 ## Engineer Exchange
 * Participation in 1 engineer exchange for at least 6 weeks with another Dedicated or Ranger team*
@@ -183,6 +230,16 @@
 
 ## Subject Matter Expert
 * Leads & recommends direction for project/product.
+
+## Code Writing
+* Implements project level refactorings, removing problem areas and improving the quality of the overall code base
+* Fosters code reuse, maintainability, and consistency across multiple SE members and/or Cores.
+* Advocates for establishing and following coding best practices SE wide.
+
+## SDLC/Process
+* Leads SE/Sr. developers through the Enova development process.
+* Familiar with release management within Enova and works to evolve and improve it
+* Sharing knowledge/wisdom/experiences outside of the team e.g. blog, talk etc
 
 ## Engineer Exchange 
 * N/A
