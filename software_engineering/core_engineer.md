@@ -164,6 +164,7 @@
 
 ## SDLC/Process
 * Reviews requirements and provides estimates for new projects.
+* Familiar with release management within Enova and works to evolve and improve it.
 
 ## Code Writing
 * Leverages best practices and writes code that serves as an example for SE I/II developers.
@@ -238,7 +239,6 @@
 
 ## SDLC/Process
 * Leads SE/Sr. developers through the Enova development process.
-* Familiar with release management within Enova and works to evolve and improve it
 * Sharing knowledge/wisdom/experiences outside of the team e.g. blog, talk etc
 
 ## Engineer Exchange 
